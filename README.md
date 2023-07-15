@@ -1,6 +1,8 @@
 # WikiGitHub
 A large-scale analysis of the GitHub repositories related to Wikidata and Wikipedia
 
+**To cite the work:** Turki, H., Hadj Taieb, M. A., Ben Aouicha, M., Rasberry, L., & Mietchen, D. (2023). Comparing the use of Wikidata and Wikipedia by open-source software programmers on GitHub repositories. In *Wikidata Workshop*.
+
 ## Description
 This repository includes:
 * **Data Collection**: A Jupyter Notebook to extract the metadata of the GitHub repositories
